@@ -1,4 +1,4 @@
-hello world
+hello from ws-b
 
 some modification ...
 
